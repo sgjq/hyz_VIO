@@ -2,7 +2,7 @@
 修改的VIN—Mono和点线vio文件夹都包含一个录屏视频
 ##1.VINS-Mono和修改的VINS在EUROC数据集表现
 
-RMSE:                修改的VINS               VINS-Mono<br>
+RMSE:                 修改的VINS             VINS-Mono<br>
 
 V1_03_difficult        0.0815                  0.19(论文给出）<br>
 
