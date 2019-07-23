@@ -1,5 +1,5 @@
 # hyz_VIO
-### 修改的VIN-Mono和点线vio文件夹都包含一个录屏视频
+### 修改的VIN-Mono和点线vio文件夹都包含一个录屏视频和记录运动轨迹的文件
 ## 1.VINS-Mono和修改的VINS在EUROC数据集表现
 
 | RMSE:             |     修改的VINS    |        VINS-Mono  |
