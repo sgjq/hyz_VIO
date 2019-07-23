@@ -12,5 +12,5 @@ MH_05_difficult        0.1655                  0.21(论文给出）<br>
 
 RMSE:                  点线VIO                VINS-Mono<br>
 
-MH_05_difficult        0.1592                  0.21(论文给出）<br>
+MH_05_difficult         0.1592               0.21(论文给出）<br>
 
