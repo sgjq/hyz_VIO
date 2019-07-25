@@ -1,7 +1,7 @@
 # hyz_VIO
 ### 修改的VIN-Mono和点线vio文件夹都包含一个录屏视频和记录运动轨迹的文件
 ## VIO结果在Nvidia TX2上运行进行测试
-## 1.VINS-Mono和修改的VINS在EUROC数据集表现
+## 1.VINS-Mono和修改的VINS在EuRoC数据集表现
 
 | RMSE:             |     修改的VINS    |        VINS-Mono  |
 | :---------------: | :---------------: | :---------------: |
@@ -12,7 +12,7 @@
 | MH_02_easy        |     **0.0988**        |    0.12(论文给出） |
 | MH_05_difficult   |     **0.1655**        |    0.21(论文给出） |
 
-## 2.VINS-Mono和点线VIO在EUROC数据集表现
+## 2.VINS-Mono和点线VIO在EuRoC数据集表现
 
 | RMSE:             |     点线VIO       |      VINS-Mono   |
 | :---------------: | :---------------: | :---------------: |
